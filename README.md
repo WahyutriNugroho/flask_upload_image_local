@@ -1,0 +1,1 @@
+# flask_upload_image_local
